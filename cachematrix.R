@@ -1,8 +1,8 @@
 ########################################################################
-## Name:-   			 Nikhil Bangad                                       #
-## Subject :- 		 R Programming (Coursera)                            #
-## Assignment:- 	 Assignment 2 : Caching the Inverse of a Matrix      #
-## Date:-					 01/21/2015                                          #
+## Name:-Nikhil Bangad                                                 #
+## Subject :- R Programming (Coursera)                                 #
+## Assignment:- Assignment 2 : Caching the Inverse of a Matrix         #
+## Date:- 01/21/2015                                                   #
 ########################################################################
 
 #################################################################
